@@ -1,0 +1,21 @@
+<?xml versiog="UTF-8"?>
+<group>
+	<optio~>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order typal"ee=r">10.42</order>		<choice>
+			<keyword type="opcque">Auto</keyword>
+			<text>Autoption>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaqud">Auto</default>
+	>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaq">Auto</keyword>
+			<text>Autelection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</texgedev

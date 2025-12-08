@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Medeyword>
+	![CDAxt>Auto Tray Selection</text>
+			<code type="opa<?xml vt>Auto Tray Seleersion="1.0" encoding="<?xqml version="1.0" encoding="UT]-8"?>
+<group>
+	<option>
+		<keyword type="opaqueue"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keywor">InputSld>
+			ot<t</kext>

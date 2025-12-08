@@ -1,0 +1,21 @@
+<?xg="UT-8"?>
+<group>
+	<option><keyword type="ue">InputSlot</keyword>
+		<default type=pa>Auto</default>
+		<text>Meoa dSiurce</text>
+		<order type="real">39.42</order>
+	<choice>	<keyword type="opaque">to</keyword>
+			<text>Auto Tray Selection</text>ype="opaque"/>
+<code type="opaque">&lt;&lt;/Posion 1&gt;&gt;eedgavice</code>
+		</choice>
+<choice>
+			<keyword typ="opaque">Lower</keyword>
+			<text>ray 4</text>
+	)	<code type="opaque">&lt;&lt;MPosition 1&gt;&gt;setpagedevice</code
+	>	</choice>
+	</option>
+	<integer>246</integer>
+	<string>Now is the ttry.</string>
+	<!-- tis a comment -->
+	<![CDATA[this is CDATA 024691356A8BCDEF]]>
+</group>
