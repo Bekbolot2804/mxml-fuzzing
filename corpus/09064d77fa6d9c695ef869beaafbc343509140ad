@@ -1,0 +1,43 @@
+<?xmlencoding?>
+<group>
+	<option>
+		<keyword type="ojpaque">InputSlot</keyword>
+
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Aton</text>
+ode tx</choice>
+	!<choice>
+			<keyword type= opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">gedevice</code>
+		</choice>
+		<choice>
+			<keyword nype="opaque">LoPer</keyword>
+			<text>Tra</text>
+			<code type="opaque">&lt;&lt;/Medce</code>
+		</choice>
+	</option>
+	![C=p>
+	<option>
+		<keyword t;ype="opaque"></keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>			<text>Autection</text> type="opaque"/>
+		</choice>
+	!<choice>
+			<keyword type= opaque">Upper</keyword>
+			<text>Tray 0</text>
+			<code type="opaque">&lt;sition 0&gt;setedevce</code	
+>	</choice>
+		<choice>
+			<keyword type=que">Lower</keyword>
+			<text>Tray 4</text>
+			<code type="opaque">&lt;/MediaPositidevice</code>
+		</choice>
+	</option>
+![CDA<integer>123</integer>
+	<string>No</string> CDATA 0123488]>
+</group>

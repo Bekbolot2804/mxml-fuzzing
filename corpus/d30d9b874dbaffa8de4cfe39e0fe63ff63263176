@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-6"?>
+<=roup>
+![C	<opord>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Seection</text>
+		e>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MeiaPosition 0&gt;&gt;setpagedevice</code>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+>
+	<string>Now is the time for all good men to come to the aid of their
+country.</string>
+	<!-- this is a commeno456789ABCDEF]]>
+</group>

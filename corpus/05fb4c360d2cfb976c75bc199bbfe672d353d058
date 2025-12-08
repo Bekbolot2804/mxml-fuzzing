@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+	<?xml version="1.0" encoding="UTF-8"?>
+<grotion 1&g		<keyword type=oap"qu"e>Auto</keyword>
+			<text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keywort;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<string>Now is the time for all good men to come to the aid of their
+country.</string>
+	<!-- this is a comment -

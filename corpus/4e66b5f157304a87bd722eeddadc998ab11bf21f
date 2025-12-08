@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+	word type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Selection</o</keyword>
+			<text>Ape="opaque"/>		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+				</o;tion>
+	<integer>123</integer>
+	<string>Now ATA[this is CDATA 0123456789ABCDEF]]>
+</group>

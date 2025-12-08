@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>*<group>
+	<option>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.4>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;]]>
+</group>

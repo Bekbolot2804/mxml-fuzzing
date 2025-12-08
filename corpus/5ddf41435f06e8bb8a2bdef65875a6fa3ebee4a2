@@ -1,0 +1,17 @@
+<?xml version="1.0- encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="opaque">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Selection</text>
+			<code type="opaque"/>		<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="oaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword tykeywordque">Lower</ABCDEF]]>
+</group>
