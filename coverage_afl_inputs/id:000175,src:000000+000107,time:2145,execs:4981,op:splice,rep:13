@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type=			<code>Auto</default>
+		<text>Media Source</text>
+		<order type="Xeal">10.42</order>
+		<cËoice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Uppfr</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choiice>
+			<keyword typecô>
+		<choice>
+			<keÅword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<string>Now is the time for all good men to come to the aid €€€€€€€€€€€€€€€€of their
+codia Source</text>
+		<order?xml version="yword type="opaque-8"?>
+<gNoup>	<opti
+	<optio</keyword>n>
+		<keyword ty>InputSlot</keywordpe="op">InputSlot</keyword

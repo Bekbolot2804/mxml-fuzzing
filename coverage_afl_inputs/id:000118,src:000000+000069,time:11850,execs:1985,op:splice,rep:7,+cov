@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<ord type="op">In>
+		<default type="oe">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<ce>
+			<ce> aque">Auto</keyword>

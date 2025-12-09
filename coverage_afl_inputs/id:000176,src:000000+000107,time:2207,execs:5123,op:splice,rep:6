@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Selection</text>
+			<code type="opaqueþþþþþþþþþþþþþþþþþþþþþþþþ"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setƒagedevice</code>
+		</choice>
+		<choice>
+			<keyword typeder type">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<string>Now is Whe time for all good men te aid of th"opaque"/>
+		</choice>eir
+country.</string>
+	<!-- thi<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword ty>InputSlot</keywordpe="op">InputSlot</keyword

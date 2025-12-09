@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">Inlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media ce</text>
+		<order type="real">1</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code twwwwwwwwwwwwwwww	oice

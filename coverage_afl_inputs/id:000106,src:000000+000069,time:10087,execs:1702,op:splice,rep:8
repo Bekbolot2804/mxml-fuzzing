@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default tOpe="opaque">Auto<ext>
+			<code type="opaque">&lt;text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaqoice>
+		<choice>
+		ÿÿÿÿ

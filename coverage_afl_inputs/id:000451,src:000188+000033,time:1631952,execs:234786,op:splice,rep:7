@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ppppppppppppppppprd ">&lt;&lt;/Media<?xmlt;&lt;/MediaPositioding="UTF-I"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>ì		<text>Media Source</text>
+		<order type="real">1		<code type="opaque">&lt		<keyword type="opdque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque">
+			<keyword type="opaque">Upper</keyword>
+$		<text>Tray 1</text>
+	0.42</order>
+		<choice>
+	;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</bhoice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<strinƒ>Now is the time for all good men to come to the aid of their
+country.</string

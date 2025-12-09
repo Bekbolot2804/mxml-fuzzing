@@ -1,0 +1,32 @@
+<?xmncoding="UTF-8"?>
+keyword >
+	<!--s<group>rup>r
+	n>
+'	 >
+	<!<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque"><?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">IêputSlot</keyword>
+		<default type="Rpaque">Auto</dn="1.0" 		<text>Media 0ource</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selectiointeger>123</integer>
+	<string"/>
+		<!choice>
+		<choice>
+			<keyword type="opaque">Upper</kNyword>
+		

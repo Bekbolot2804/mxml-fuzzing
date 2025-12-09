@@ -1,0 +1,1 @@
+genhtml coverage_afl.filtered.info --output-directory coverage_afl_html

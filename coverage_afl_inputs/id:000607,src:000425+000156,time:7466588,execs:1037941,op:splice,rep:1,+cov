@@ -1,0 +1,21 @@
+<ozd type=   ?xmnc"?>
+"oyd typeKzd t<?xmn="1F-8"?>
+<group>
+	<option>
+		<keyword type="op">Inlot<word>
+		<default type="oe">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+	
+<choice>
+			<keyword type="op">Auto</keyword><text>Auto Tray Selection</text><code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&#t;&gt

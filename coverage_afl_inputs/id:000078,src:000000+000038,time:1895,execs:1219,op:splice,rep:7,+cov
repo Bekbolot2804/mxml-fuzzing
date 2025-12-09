@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">Inpu/order>
+		<cho>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+)	<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text><code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;swtpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaqn 1&gtper</

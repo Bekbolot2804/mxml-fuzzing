@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choi]e>
+			<keyword type="opaque">Auto<Ekeyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		

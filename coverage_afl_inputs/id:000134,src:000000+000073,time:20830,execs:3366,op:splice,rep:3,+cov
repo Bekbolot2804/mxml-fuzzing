@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><textion 1&gt;&g>Aut
