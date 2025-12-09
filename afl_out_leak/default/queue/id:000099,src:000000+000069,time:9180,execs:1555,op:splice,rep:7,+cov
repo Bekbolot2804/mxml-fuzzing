@@ -1,0 +1,31 @@
+3?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+word type="opaque">Lower<tSlot</keyword>
+		<default type="opaque">Auto</‡efault>
+		<text>Media Source</text>
+		<order type="eal">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaqu<?xml ve>
+		</choice>
+		<choice>
+			?>
+<group>
+	<optext>Tray 2</text>
+			<code tyutSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+	:	<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+	

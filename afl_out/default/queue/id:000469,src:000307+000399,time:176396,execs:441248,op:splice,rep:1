@@ -1,0 +1,28 @@
+<up>
+	?rd>
+		A<up>
+	?" -8"?>Hup>
+	?<?xml version="1.0" encoding>"UTF-8"?>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Aon</text>
+			<code type="opaque"/>
+		</choice>%		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPositiln 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123<ng>Now is the time for all good men to come to the aer>
+	<string>Now is the timid of their
+country.</

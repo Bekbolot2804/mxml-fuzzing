@@ -1,0 +1,13 @@
+<?xmn<?xon="1.0" encoding="UTF-8"?>
+<group>
+	<op>
+		<keyword type="op">I</keyword>
+		<det tOpe="ue">Auto<ext>
+			<code type="opaque">&lt;text>
+		<order type="real">2</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<che type="opaque"/>
+		</chce>

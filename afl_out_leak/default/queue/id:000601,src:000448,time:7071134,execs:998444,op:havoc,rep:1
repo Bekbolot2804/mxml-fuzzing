@@ -1,0 +1,28 @@
+<?xml verri!-- this -8"?><![CDATA[this is CDAT
+	<option>
+		<keyword type="op">InputSlot</keyword<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><vext>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choic
+		<keyword type="op">InputSlot"opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<string>Now is the time for all good men to ->
+	<!--s m"
+	
+	<?x type="opaque">Auto</default>
+		<texz>Media Source</text>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>6>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>come to the aid of their
+country.</string>
+	<on="1.0& encoding="UTF-8"?><![CDATA[this is CDATA 0123456789ABCDEF]]>
+</group>

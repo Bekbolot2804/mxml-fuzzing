@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">Inlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray Selection</text>
+is a comment -->
+	<![CDATA[</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyworÿÿÿ

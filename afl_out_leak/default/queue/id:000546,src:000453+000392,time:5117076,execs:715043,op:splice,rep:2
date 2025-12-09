@@ -1,0 +1,38 @@
+<qrder type="ÿ >
+	<!ÿ<?xmr
+	<option>
+		gin<keyword ?>
+<group>r
+	<option>?>
+<gro
+		g='UT>
+	<!-- a c>r
+	<?xml version="1.0" encoding="TF-"?>
+<p><?<?xmnc*?>
+<?>
+<?xc"?>
+<?>
+<?xmnc"?>
+<?>
+
+
+
+mnc"?>UTF-8"?>
+<group>
+	<optgon>
+		<keyword type=ÿÿÿÿ>InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Souzce</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<tex

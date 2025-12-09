@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<keyword type="op">Inlot</keyword>
+		<default type="oe">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<ce>
+		 Tray Sed to</keyword>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<keyword type="op">Inlot</keyword>
+		<default type="oe">Auto</default>
+		<text>Media ce</text>
+		<order type="real">1</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword>
+			<text>Auto Tray n</text>
+			<code type="opaque"/>
+		</choice 
+		<choice>
+			<keyword type="opaque">U</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/Meion 0&gt;&gt;setdevice</code>
+		</choice>
+		

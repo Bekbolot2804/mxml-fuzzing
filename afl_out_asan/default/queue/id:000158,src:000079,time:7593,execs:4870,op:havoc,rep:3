@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+	<option>
+		<keyword type="op">InputSvot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media SourcR</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type=="opaque">Auto<Ek"opaque">Auto<Ekeyword><text>Auto Tray Selection</text>
+			<code type="opaque"/>
+		</choice>
+		

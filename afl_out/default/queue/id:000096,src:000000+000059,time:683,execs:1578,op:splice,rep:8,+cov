@@ -1,0 +1,16 @@
+<?xml veF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+<?x	ml version="1.0" encoding="UTF-8"?>
+<group>
+	<opfion>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type=real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</kewor

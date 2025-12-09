@@ -1,0 +1,27 @@
+<order type="reion 0&gt;&gt;setpag encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Selection</text>
+			<codeDtype=d>
+			<tex
+		</choice>
+		<choice>
+			<keyword type="opaque">Upper</keywor"opaque"/>t>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosit<?xml version="1.0"edevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<text>Tray 2</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integar>1.3</integer>
+	<string>Now is the time for all good men to cXme to the aid of their
+country.</string>
+	<!-- this is a comment -->
+	<![CDATA[this is CDATA 01234<?

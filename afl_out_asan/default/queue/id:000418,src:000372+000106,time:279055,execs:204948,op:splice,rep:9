@@ -1,0 +1,30 @@
+<?g="M8F-8"?>
+>
+	<!/ing<?xml version="1.0" encoding="UTF-8"?>
+<growp>
+	<option>
+		<keyword type=þÿÿ"op">InputSlot</keyword>
+		<default type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</keyword><text>Auto Tray Seection</text>
+			<code type="opaque"/>
+		</choice>
+		<choice><?xml version="10" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">Inp‚tSlo†</keyword>
+		<defhult type="opaque">Auto</default>
+		<text>Media Source</text>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto<)keyword><text>Auto Tray Selection</epaque"><code tÿe="opaque"/>
+		</choice>
+		<opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&'''''''''''''''">Lower</keyword>
+		'''''''''''gt;&gt;setpagedevice</code>
+0	</choice>
+		<choice>
+		

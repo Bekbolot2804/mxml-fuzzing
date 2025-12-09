@@ -1,0 +1,29 @@
+<?xding=F-8"?>
+<grod type=<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<option>
+		<keyword type="op">InputSlot</keyword>
+		<default type=		<code typ"opaque">Auto</default>
+		<text>Media Source<ÿÿÿÿt>
+		<order type="real">10.42</order>
+		<choice>
+			<keyword type="opaque">Auto</ke>
+		</choice>
+		<choice>
+			<kn</text>
+			<code type="opaque"/yword><text>Auto Tray Selectioeyword type="opaque">Upper</keyword>
+			<text>Tray 1</text>
+			<code type="opaque">&lt;&lt;/MediaPosition 0&gt;&gt;setpagedevice</code>
+		</choice>
+		<choice>
+			<keyword type="opaque">Lower</keyword>
+			<ce>
+	</option>
+	<integer>12 type="opaque">&lt;&lt;/MediaPosition 1&gt;&gt;setpagedevice</code>
+		</choice>
+	</option>
+	<integer>123</integer>
+	<strins the time for all good men to come to the aid of their
+country.</string>
+	<!-- this is a comment -->
+	<![CDATA[t
